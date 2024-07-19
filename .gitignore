@@ -1,0 +1,15 @@
+# Laravel
+/vendor
+/node_modules
+/.env
+/public/storage
+/storage/*.key
+/storage/debugbar
+
+# React
+/build
+/.env
+
+# Docker
+.docker
+docker-compose.override.yml

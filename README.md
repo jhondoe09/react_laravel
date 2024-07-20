@@ -23,7 +23,7 @@ To set up the project locally, follow these steps:
 
 2. Navigate to the backend directory:
     ```bash
-    cd backend
+    cd laravel_react_crud
     ```
 
 3. Install PHP dependencies:
@@ -48,7 +48,7 @@ To set up the project locally, follow these steps:
 
 1. Navigate to the frontend directory:
     ```bash
-    cd ../frontend
+    cd ../react_laravel_crud
     ```
 
 2. Install Node.js dependencies:
@@ -85,7 +85,7 @@ The application is containerized using Docker. To set up and run the containers,
 
 1. Navigate to the backend directory:
     ```bash
-    cd backend
+    cd laravel_react_crud
     ```
 
 2. Run the tests:

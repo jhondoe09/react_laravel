@@ -8,8 +8,6 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 - [Usage](#usage)
 - [Docker Setup](#docker-setup)
 - [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -93,16 +91,4 @@ The application is containerized using Docker. To set up and run the containers,
 2. Run the tests:
     ```bash
     php artisan test
-    ```
-
-### Frontend (React)
-
-1. Navigate to the frontend directory:
-    ```bash
-    cd ../frontend
-    ```
-
-2. Run the tests:
-    ```bash
-    npm test
     ```
